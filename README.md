@@ -10,4 +10,4 @@ Place user tokens within the tokens.txt file. Then within main.rs change the inv
 
 ## Help & Support
 
-- Join my [discord server](https://discord.gg/fuf8t4JWDV)
+- Join my [discord server](https://discord.gg/qCJwVERPRV)
